@@ -2,6 +2,8 @@
 @import "helpers/sizes.css";
 @import "helpers/spacing.css";
 @import "helpers/text-align.css";
+@import "components/cards.css";
+@import "components/links.css";
 
 body {
   font-size: 16px;
