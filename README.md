@@ -8,3 +8,5 @@ npm install -g yarn
 yarn install parcel
 
 yarn parcel build src/index.html
+
+Move dist to root folder
